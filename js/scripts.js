@@ -1,8 +1,7 @@
 
 
-//Chave conta 1- lkvMIcOtW6UqQ2A9UeIc2cWD1TaxnRZv
+//Chave conta- lkvMIcOtW6UqQ2A9UeIc2cWD1TaxnRZv
 //Chave conta 2 - D6cfQL07NolmyqDyHj4g6fDSJfYaID3g
-//chave conta vinicius - ut2cs3PdmynEZpHAwq3KeJX2DTOd3h64
 
 var api_key = 'lkvMIcOtW6UqQ2A9UeIc2cWD1TaxnRZv'
 
