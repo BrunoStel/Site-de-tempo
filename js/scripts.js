@@ -1,16 +1,5 @@
 
-$(function(){
 
-
-// *** APIs ***
-// clima, previsão 12 horas e previsão 5 dias: https://developer.accuweather.com/apis
-// pegar coordenadas geográficas pelo nome da cidade: https://docs.mapbox.com/api/
-// pegar coordenadas do IP: http://www.geoplugin.net
-// gerar gráficos em JS: https://www.highcharts.com/demo
-
-
-
-});
 //Chave conta 1- lkvMIcOtW6UqQ2A9UeIc2cWD1TaxnRZv
 //Chave conta 2 - D6cfQL07NolmyqDyHj4g6fDSJfYaID3g
 //chave conta vinicius - ut2cs3PdmynEZpHAwq3KeJX2DTOd3h64
